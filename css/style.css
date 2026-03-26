@@ -1,0 +1,16 @@
+* {
+  padding: 20px;
+  margin: 20px;
+  font-size: 40px;
+}
+.box-one {
+  background-color: orange;
+  border: 0 solid blue;
+  border-width: 20px;
+} 
+
+.box-two {
+  background-color: purple;
+  border: 0 solid yellow;
+  border-width: 20px;
+} 
